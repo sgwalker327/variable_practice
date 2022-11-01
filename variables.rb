@@ -10,3 +10,12 @@ water_drank_oz = 64.7
 is_male = true
 is_hungry = true
 is_mad = false
+
+name = "Spam Walker"
+location = "Avon, Co"
+favorite_activity = "Paddle Boarding"
+
+puts name
+puts favorite_activity
+puts weight
+puts is_male
