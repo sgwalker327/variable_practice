@@ -7,3 +7,6 @@ height_in_cm = 181
 actual_weight = 187.5
 temperature_f = 37.4
 water_drank_oz = 64.7
+is_male = true
+is_hungry = true
+is_mad = false
